@@ -1,0 +1,29 @@
+.board {
+    width: 70%;
+    background: lightblue;
+    padding: 2rem;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.joke {
+   font-weight: bold;
+}
+
+p {
+    margin: 0;
+}
+
+.btn-joke {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.btn-icon {
+    display: flex;
+    flex-direction: column;
+}
